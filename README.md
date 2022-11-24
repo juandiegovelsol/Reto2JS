@@ -26,7 +26,7 @@ function myFunction(obj, key) {
 | myFunction({  country: 'Sweden',  continent: 'Europe'}, 'country')          | 'Sweden' |
 | myFunction({  name: 'khriztian', 'fav-number': 33, age: 18 }, 'fav-number') | 33       |
 
-## Fix Error: Valor vs. Referencia de Tipos
+## Fix Error Valor vs. Referencia de Tipos
 Cree una función que devuelva `true` si dos arreglos contienen valores idénticos y `false` en caso contrario.
 
 Para resolver esta pregunta, tu amigo escribe el siguiente código:
